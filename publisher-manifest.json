@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "28d05170231f4f1eb8d307c6",
+  "owner": "m5edqakt",
+  "repo": "page-4e37fed186e41f0f886a33fe",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4e37fed186e41f0f886a33fe",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "253f3002521d73ab998cef1a67b3625ba8632c9033c75d984548fcb767074681",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供网络加速服务，支持机场订阅和客户端下载。帮助您实现稳定高效的网络体验。",
+          "AI_DESCRIPTION": "44F网络提供网络加速服务，支持机场订阅和客户端下载。帮助您实现稳定高效的网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;margin:0;padding:0;background:#F8F5F0;color:#333;line-height:1.6}.container{max-width:1200px;margin:0 auto;padding:0 20px}header{background:#2E7D32;color:#fff;padding:1rem 0}nav{display:flex;justify-content:space-between;align-items:center}.logo{font-size:1.8rem;font-weight:bold;color:#fff}nav ul{display:flex;list-style:none}nav ul li{margin-left:2rem}nav ul li a{color:#fff;text-decoration:none;font-weight:500}.hero{background:linear-gradient(to right,#2E7D32,#F8F5F0);color:#fff;text-align:center;padding:4rem 0}.hero h1{font-size:3rem;margin-bottom:1rem}.hero p{font-size:1.5rem;margin-bottom:2rem}.btn{background:#2E7D32;color:#fff;padding:0.8rem 1.5rem;border:none;border-radius:4px;font-size:1.1rem;cursor:pointer;text-decoration:none;display:inline-block}.section{padding:3rem 0}h2{color:#2E7D32;font-size:2.2rem;text-align:center;margin-bottom:2rem}.staggered{display:flex;flex-wrap:wrap;margin-bottom:2rem}.staggered>div{flex:1;padding:1.5rem;background:#fff;margin:0.5rem;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1)}.staggered>div:nth-child(odd){background:#F8F5F0}.step{display:flex;align-items:center;margin-bottom:1.5rem}.step-num{background:#2E7D32;color:#fff;width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;margin-right:1rem}.faq{max-width:800px;margin:0 auto}details{background:#fff;margin-bottom:1rem;border-radius:8px;padding:1rem}summary{font-weight:bold;cursor:pointer;color:#2E7D32}footer{background:#2E7D32;color:#fff;text-align:center;padding:2rem 0}@media(max-width:768px){.hero h1{font-size:2.5rem}nav ul{flex-direction:column;align-items:center}nav ul li{margin:0.5rem 0}.staggered>div{flex:none;width:100%}}</style><header><div class=\"container\"><nav><div class=\"logo\">44F网络</div><ul><li><a href=\"#\">首页</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#faq\">FAQ</a></li><li><a href=\"#\">联系我们</a></li></ul></nav></div></header><main><section class=\"hero\"><div class=\"container\"><h1>44F网络</h1><p>高效网络加速器<br>机场订阅 客户端下载</p><a href=\"#plans\" class=\"btn\">立即体验加速</a></div></section><section class=\"section\"><div class=\"container\"><h2>品牌简介</h2><p>44F网络专注于提供稳定的网络加速服务，帮助用户实现更快的上网体验。</p></div></section><section class=\"section\"><div class=\"container\"><h2>使用场景</h2><div class=\"staggered\"><div><h3>日常办公加速</h3><p>高效的网络连接，让您在工作中不受干扰。</p></div><div><h3>流媒体解锁</h3><p>解锁平台上的优质内容。</p></div></div><div class=\"staggered\"><div><h3>游戏加速</h3><p>优化网络线路，提升游戏体验。</p></div><div><h3>团队协作</h3><p>支持多人同时在线，保障网络稳定。</p></div></div></div></section><section class=\"section\"><div class=\"container\"><h2>配置流程</h2><div class=\"staggered\"><div><div class=\"step-num\">1</div><h4>下载并安装</h4><p>访问网站下载并安装客户端软件。</p></div><div><h4>注册账号</h4><p>使用邮箱完成注册登录。</p></div></div><div class=\"staggered\"><div><div class=\"step-num\">2</div><h4>选择套餐</h4><p>根据需求选择合适套餐。</p></div><div><h4>连接节点</h4><p>选择线路节点并连接服务器。</p></div></div><div class=\"staggered\"><div><div class=\"step-num\">3</div><h4>开始使用</h4><p>享受网络加速服务。</p></div><div><h4>优化设置</h4><p>根据需要调整配置。</p></div></div></div></section><section class=\"section\"><div class=\"container\"><h2>套餐选择</h2>{{PLANS_HTML}}</div></section><section class=\"section\"><div class=\"container\">{{CLIENTS_HTML}}</div></section><section class=\"section faq\"><div class=\"container\"><h2>常见问题</h2><div class=\"faq\"><details><summary>如何注册并使用44F网络？</summary><p>首先访问网站下载客户端，注册账号后，选择节点连接，即可享受加速服务。</p></details><details><summary>支持哪些设备？</summary><p>支持电脑、手机、平板等多种设备同时在线。</p></details><details><summary>流量如何计算？</summary><p>流量按月计费，提供不同套餐满足不同需求。</p></details><details><summary>如何解锁流媒体？</summary><p>使用合适套餐并选择对应节点即可。</p></details><details><summary>如何获取技术支持？</summary><p>提供工单支持，快速响应您的疑问。</p></details></div></div></section></main><footer><div class=\"container\"><p>44F网络 版权所有</p></div></footer>",
+          "hash": "ab20eb9fe5211d83eff80f9d222b8d6a5906c92793260275493bbd2a1e052a5a",
+          "seo": {
+            "title": "44F网络 - 加速器 机场订阅 客户端下载",
+            "keywords": "44F网络, 加速器, 机场订阅, 客户端下载, VPN加速器",
+            "description": "44F网络提供网络加速服务，支持机场订阅和客户端下载。帮助您实现稳定高效的网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "172gg.cn",
+    "host": "b.172gg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "172gg.cn",
+      "url": "https://172gg.cn/",
+      "label": "YukiMo",
+      "apex": "172gg.cn",
+      "kind": null,
+      "identity": "tajavaq/page-b98825732d5d0b408334302d"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b8fb8a9e1e18753e0059a45fffb80ae012e07bf3ed13da74a9f57391701aedd5",
+    "sitemap.xml": "cf862bba6c32661077ca45e8840d079efe03481035bf41cc32e64ca0c108ef71",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "356e0912a46e031204874f90ac296cae1a83956798a6d4f472ce83a9bcd13049",
+    "robots.txt": "4be1228a3e6020f101850e00d2fd86f059f181e461c58b77ed63f62ed21e3e50",
+    "2fad5f19173902c84870cd6765037f3b.txt": "a0b78121444f7b44312cba29ba9dace845187e247ff8a850329f2b056a2fe642"
+  },
+  "revision": "fd354890b4499138212b4a9a8427e458a860d1394e44459f2b665024638a34c8"
+}
